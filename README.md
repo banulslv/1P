@@ -1,2 +1,2 @@
-# 2DG_p1
+# P1
 La primera página
